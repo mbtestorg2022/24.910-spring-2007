@@ -92,12 +92,57 @@ A draft of the final project will have to be submitted in time for you to revise
 Grading
 -------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Class participation | 10% |
-| Assignments | 15% |
-| Final project presentation | 15% |
-| Final project paper | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project paper
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Textbook
 --------
@@ -109,17 +154,201 @@ Please see [readings]({{< baseurl >}}/pages/readings) for additional texts.
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Laboratory phonology {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Basic audition {{< br >}}{{< br >}} Digital signal processing {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Source-filter theory {{< br >}}{{< br >}} Acoustics of vowels {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Adaptive dispersion | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Spectral analysis {{< br >}}{{< br >}} Licensing by cue {{< br >}}{{< br >}}  | Proposal of an experimental test of a hypothesis due |
-| 6 | Licensing by cue (cont.) | &nbsp; |
-| 7 | Intonation | &nbsp; |
-| 8 | The meaning of intonation | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Basic statistics {{< br >}}{{< br >}} Effects of the lexicon and context on speech perception {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Effects of the lexicon and context on speech perception (cont.) | &nbsp; |
-| 11 | Phonetics and phonology of accent variation | &nbsp; |
-| 12 | Student presentations |  {{< br >}}{{< br >}} Draft of final project due {{< br >}}{{< br >}} Final version due 10 days after Ses #12 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Laboratory phonology
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic audition
+
+Digital signal processing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Source-filter theory
+
+Acoustics of vowels
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Adaptive dispersion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral analysis
+
+Licensing by cue
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal of an experimental test of a hypothesis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Licensing by cue (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Intonation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The meaning of intonation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic statistics
+
+Effects of the lexicon and context on speech perception
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of the lexicon and context on speech perception (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Phonetics and phonology of accent variation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Draft of final project due
+
+Final version due 10 days after Ses #12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
