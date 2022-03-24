@@ -122,7 +122,7 @@ Ladefoged, Peter. _Elements of Acoustic Phonetics_. 2nd ed. Chicago, IL: Univers
 
 Wright, R. "A Review of Perceptual Cues and Cue Robustness." In _Phonetically-Based Phonology_. Edited by Bruce Hayes, Robert Kirchner, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788.
 
-Steriade, Donca. "Alternatives to Syllable-Based Accounts of Consonantal Phonotactics." _Proceedings of LP '98: Item Order in Language and Speech_. Edited by Fujimura, Osamu, Brian D. Joseph, and Bohumil Palek. Prague, Czech Republic: Karolinum Press, 1999, pp. 205-245. ISBN: 9788024600161. \[(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.linguistics.ucla.edu/people/steriade/papers/Alternatives_to_Syllables.pdf)): Read pp. 1-21\]
+Steriade, Donca. "Alternatives to Syllable-Based Accounts of Consonantal Phonotactics." _Proceedings of LP '98: Item Order in Language and Speech_. Edited by Fujimura, Osamu, Brian D. Joseph, and Bohumil Palek. Prague, Czech Republic: Karolinum Press, 1999, pp. 205-245. ISBN: 9788024600161. \[([PDF](http://www.linguistics.ucla.edu/people/steriade/papers/Alternatives_to_Syllables.pdf)): Read pp. 1-21\]
 
 McMurray, B., M. K. Tanenhaus, and R. N. Aslin. "Gradient Effects of Within-Category Phonetic Variation on Lexical Access." _Cognition_ 86, no. 2 (2002): B33-B42.
 
