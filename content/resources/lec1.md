@@ -4,6 +4,7 @@ description: Lecture notes with an introduction to the course and information ab
   laboratory phonology.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/625076385dca5c496d7b98d85e449814_lec1.pdf
 file_type: application/pdf
+parent_uid: 9fdb3bbe-dcff-fc9d-4e26-f2d82f6e0993
 resourcetype: Document
 title: Laboratory Phonology
 uid: 62507638-5dca-5c49-6d7b-98d85e449814
